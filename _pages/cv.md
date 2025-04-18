@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+nav_order: 2
+cv_pdf: [Download my updated CV](https://onedrive.live.com/?cid=9883817D0BD15BDA&id=9883817D0BD15BDA%21s9bbeb946ebf347688ae7d3259dca7b20&parId=9883817D0BD15BDA%21s5054578cf728417698c6d9ecef0492bf&o=OneUp)
+description: 
 toc:
   sidebar: left
 ---
