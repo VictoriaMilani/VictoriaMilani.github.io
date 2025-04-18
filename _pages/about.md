@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: You can check my CV [here](https://onedrive.live.com/?cid=9883817D0BD15BDA&id=9883817D0BD15BDA%21s9bbeb946ebf347688ae7d3259dca7b20&parId=9883817D0BD15BDA%21s5054578cf728417698c6d9ecef0492bf&o=OneUp)
+subtitle: <a href="https://onedrive.live.com/?cid=9883817D0BD15BDA&id=9883817D0BD15BDA%21s9bbeb946ebf347688ae7d3259dca7b20&parId=9883817D0BD15BDA%21s5054578cf728417698c6d9ecef0492bf&o=OneUp">You can check my CV here</a>
 
 profile:
   align: right
