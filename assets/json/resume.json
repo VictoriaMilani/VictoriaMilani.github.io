@@ -1,118 +1,215 @@
 {
-  " ": {
+  "basics": {
     "name": "Victoria Milani Lewaschiw",
+    "label": "Ph.D. Candidate in Economics",
     "image": "",
     "email": "vmilani@uga.edu",
-    "url": "https://VictoriaMilani.github.io/",
-    "Research Interests": "Health & Behavioral Economics, Applied Econometrics",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "url": "https://victoriamilani.github.io/",
+    "summary": "Ph.D. Candidate in Economics at the University of Georgia. Research interests: Health Economics, Applied Econometrics, and Applied Microeconomics.",
+    "location": {
+      "address": "Correll Hall 314M",
+      "postalCode": "",
+      "city": "Athens",
+      "countryCode": "US",
+      "region": "Georgia"
+    },
+    "profiles": []
   },
-  "Education": [
+  "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "SKILLS AND ASSETS": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "University of Georgia",
+      "position": "Instructor of Record",
+      "location": "Athens, GA, USA",
+      "startDate": "2026-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Principles of Microeconomics (ECON 2106) — Spring 2026"
+      ]
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "University of Georgia",
+      "position": "Research Assistant",
+      "location": "Athens, GA, USA",
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "summary": "",
+      "highlights": [
+        "Research Assistant to Matt Knepper (2024)",
+        "Research Assistant to Gregorio Caetano (2025)"
+      ]
+    },
+    {
+      "name": "University of Georgia",
+      "position": "Teaching Assistant",
+      "location": "Athens, GA, USA",
+      "startDate": "2022-08-01",
+      "endDate": "2025-12-31",
+      "summary": "",
+      "highlights": [
+        "Graduate Econometrics (Fall 2024, Fall 2025)",
+        "Graduate Labor Economics (Fall 2024)",
+        "Undergraduate Econometrics (Spring 2025)",
+        "Urban Economics (Spring 2023, Spring 2025)",
+        "Economic Development of the U.S. (Summer 2023)",
+        "Labor Economics (Fall 2023)",
+        "Health Economics (Fall 2023)",
+        "Intermediate Microeconomics, Honors (Fall 2022, Spring 2023)"
+      ]
+    },
+    {
+      "name": "Universidad Carlos III de Madrid",
+      "position": "Teaching Assistant",
+      "location": "Madrid, Spain",
+      "startDate": "2021-09-01",
+      "endDate": "2022-06-30",
+      "summary": "",
+      "highlights": [
+        "Dynamic Macroeconomics (Prof. Luisa Fuster) — Spring 2022",
+        "Game Theory (Prof. Boris Ginzburg) — Fall 2021"
+      ]
+    },
+    {
+      "name": "Insper",
+      "position": "Teaching and Research Assistant",
+      "location": "São Paulo, Brazil",
+      "startDate": "2017-01-01",
+      "endDate": "2018-12-31",
+      "summary": "",
+      "highlights": [
+        "Applied Statistics (Fall 2018, Dr. Adriana Bruscato)",
+        "Information Systems (Spring/Fall 2017, Prof. Marco Antonio Caetano)"
+      ]
+    },
+    {
+      "name": "Mastercard Advisors",
+      "position": "Analytics Intern",
+      "location": "",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Santander",
+      "position": "Valuation Summer Intern",
+      "location": "",
+      "startDate": "2018-01-01",
+      "endDate": "2018-12-31",
+      "summary": "",
+      "highlights": []
     }
   ],
+  "education": [
+    {
+      "institution": "University of Georgia",
+      "location": "Athens, GA, USA",
+      "url": "",
+      "area": "Economics",
+      "studyType": "Ph.D.",
+      "startDate": "2022-08-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Carlos III de Madrid",
+      "location": "Getafe, Spain",
+      "url": "",
+      "area": "Economic Analysis",
+      "studyType": "M.Sc.",
+      "startDate": "2020-09-01",
+      "endDate": "2022-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Insper Instituto de Ensino e Pesquisa",
+      "location": "São Paulo, Brazil",
+      "url": "",
+      "area": "Economics",
+      "studyType": "B.A.",
+      "startDate": "2016-02-01",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Knox Scholarship",
+      "date": "2025-01-01",
+      "awarder": "University of Georgia",
+      "summary": "Also awarded in 2023 and 2024."
+    },
+    {
+      "title": "Bonbright Center Scholarship",
+      "date": "2022-01-01",
+      "awarder": "University of Georgia",
+      "summary": ""
+    },
+    {
+      "title": "Full Scholarship, M.Sc. in Economic Analysis",
+      "date": "2020-01-01",
+      "awarder": "Universidad Carlos III de Madrid",
+      "summary": ""
+    },
+    {
+      "title": "Award for 8th Place in Class (of 90)",
+      "date": "2019-01-01",
+      "awarder": "Insper",
+      "summary": ""
+    },
+    {
+      "title": "Best Group Project, Problems in Economics",
+      "date": "2019-01-01",
+      "awarder": "Insper",
+      "summary": ""
+    },
+    {
+      "title": "2nd Place, Econometric Games Brazil",
+      "date": "2018-01-01",
+      "awarder": "Econometric Games Brazil",
+      "summary": ""
+    }
+  ],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Programming and Software (Advanced)",
+      "level": "",
+      "keywords": ["R", "Stata", "SQL", "VBA", "LaTeX", "EViews"]
+    },
+    {
+      "name": "Programming and Software (Intermediate)",
+      "level": "",
+      "keywords": ["Python", "Julia", "MATLAB", "QGIS", "GeoDa", "GWR4"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Portuguese",
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Research Fields",
+      "keywords": ["Health Economics", "Applied Econometrics", "Applied Microeconomics"]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "references": [],
+  "projects": []
 }
