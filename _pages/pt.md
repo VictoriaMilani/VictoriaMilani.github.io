@@ -14,4 +14,4 @@ Minha pesquisa está nas áreas de **Economia da Saúde**, **Econometria Aplicad
 Atualmente, desenvolvo meu Job Market Paper sobre a relação entre consumo de alimentação fora de casa e indicadores de saúde.
 Estarei no **mercado acadêmico 2026–2027**, com foco principal em posições acadêmicas, especialmente no Brasil.
 
-**Links rápidos:** [Pesquisa](/pt/research/) · [Ensino](/pt/teaching/) · [CV em inglês](/cv/) · [English](/)
+**Links rápidos:** [Pesquisa](/pt/research/) · [Ensino](/pt/teaching/) · [CV em português](/pt/cv/) · [English](/)
