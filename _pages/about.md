@@ -1,32 +1,20 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
-subtitle: <a href="https://onedrive.live.com/?cid=9883817D0BD15BDA&id=9883817D0BD15BDA%21s9bbeb946ebf347688ae7d3259dca7b20&parId=9883817D0BD15BDA%21s5054578cf728417698c6d9ecef0492bf&o=OneUp">You can check my CV here</a>
-
+subtitle: Ph.D. Candidate in Economics, University of Georgia — you can check my CV <a href='/cv/'>here</a>.
 profile:
   align: right
-  image: Profile.jpeg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Ph.D. Student in Economics</p>
-    <p>University of Georgia</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  image: prof_pic.jpg
+  image_circular: false
+selected_papers: false
+social: true
 ---
 
-Hi! my name is Victoria and I am a Ph.D. student in Economcis at the University of Georgia.
+I am a Ph.D. candidate in Economics at the University of Georgia. My research focuses on **Health Economics**, **Applied Econometrics**, and **Applied Microeconomics**, with a particular interest in how behavioral and policy-relevant factors affect health outcomes.
 
+I am currently developing my Job Market Paper on the relationship between food-away-from-home consumption and health outcomes. I am on the **2026–2027 academic job market**, with primary interest in academic positions, especially in Brazil.
 
+Please find my research, teaching experience, and CV on this website.
 
+**Quick links:** [CV (PDF)](/assets/pdf/Victoria_Lewaschiw_-_CV.pdf) · [Research](/research/) · [Teaching](/teaching/) · [Português](/pt/)
