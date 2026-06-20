@@ -6,75 +6,126 @@
     - name: E-mail
       value: vmilani@uga.edu
     - name: Research Interests
-      value: Health & Behavioral Economics, Applied Econometrics
+      value: Health Economics, Applied Econometrics, Applied Microeconomics
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D., Economics
-      institution: University of Georgia, Georgia, USA
-      year: 2027 (expected)
+    - title: Ph.D. in Economics
+      institution: University of Georgia (Athens, GA, USA)
+      year: 2022 - Present
       description:
         - Dissertation title: The Impact of FAFH on Health
-        - Dissertation committee: Dr. Gregorio Caetano (chair), Dr. Joshua Kinsler (member), Dr. Meghan Skira (member) 
-    - title: M.Sc., Economic Analysis
-      institution: Universidad Carlos III de Madrid, Getafe, Spain
+        - Dissertation committee: Dr. Gregorio Caetano (chair), Dr. Carolina Caetano (member), Dr. Eilidh Geddes (member) 
+    - title: M.Sc. in Economic Analysis
+      institution: Universidad Carlos III de Madrid (Getafe, Spain)
+      year: 2020 - 2022
+    - title: B.A. in Economics
+      institution: Insper Instituto de Ensino e Pesquisa (São Paulo, Brazil)
+      year: 2016 - 2020
+
+- title: Research and Teaching Experience
+  type: time_table
+  contents:
+    - title: Instructor of Record
+      institution: University of Georgia
+      year: Spring 2026
+      description:
+        - Principles of Microeconomics (ECON 2106)
+
+    - title: Research Assistant
+      institution: University of Georgia
+      year: 2024 - 2025
+      description:
+        - Research Assistant to Matt Knepper (2024)
+        - Research Assistant to Gregorio Caetano (2025)
+
+    - title: Teaching Assistant
+      institution: University of Georgia
+      year: 2022 - 2025
+      description:
+        - Graduate Econometrics (Fall 2024, Fall 2025)
+        - Graduate Labor Economics (Fall 2024)
+        - Undergraduate Econometrics (Spring 2025)
+        - Urban Economics (Spring 2023, Spring 2025)
+        - Economic Development of the U.S. (Summer 2023)
+        - Labor Economics (Fall 2023)
+        - Health Economics (Fall 2023)
+        - Intermediate Microeconomics, Honors (Fall 2022, Spring 2023)
+
+    - title: Teaching Assistant
+      institution: Universidad Carlos III de Madrid
+      year: 2021 - 2022
+      description:
+        - Dynamic Macroeconomics (Spring 2022, Prof. Luisa Fuster)
+        - Game Theory (Fall 2021, Prof. Boris Ginzburg)
+
+    - title: Teaching and Research Assistant
+      institution: Insper
+      year: 2017 - 2018
+      description:
+        - Applied Statistics (Fall 2018, Dr. Adriana Bruscato)
+        - Information Systems (Spring/Fall 2017, Prof. Marco Antonio Caetano)
+
+- title: Awards and Fellowships
+  type: time_table
+  contents:
+    - title: Knox Scholarship
+      institution: University of Georgia
+      year: 2023, 2024, 2025
+    - title: Bonbright Center Scholarship
+      institution: University of Georgia
       year: 2022
-      description:
-        - Description 1.
-    - title: Bachelor, Economics
-      institution: Insper Instituto de Ensino e Pesquisa, São Paulo, Brazil
+    - title: Full Scholarship, M.Sc. in Economic Analysis
+      institution: Universidad Carlos III de Madrid
       year: 2020
+    - title: Award for 8th Place in Class (of 90)
+      institution: Insper
+      year: 2019
+    - title: Best Group Project, Problems in Economics
+      institution: Insper
+      year: 2019
+    - title: 2nd Place, Econometric Games Brazil
+      institution: Econometric Games Brazil
+      year: 2018
 
-- title: Experience
+- title: Presentations
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Southern Economic Association Conference
+      institution:
+      year: November 2025
+    - title: CSWEP Mentoring Workshop
+      institution:
+      year: November 2025
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Teaching Experience
+- title: Additional Experience
   type: time_table
   contents:
-    - title:
-      institution: 
-      year: 
-      description: 
+    - title: Tutor (Student-Athlete Support)
+      institution: University of Georgia
+      year: 2022 - 2023
+      description:
+        - Introductory Microeconomics tutoring for student-athletes
+    - title: Data Analysis Freelancer
+      institution:
+      year: 2020
+    - title: Analytics Intern
+      institution: Mastercard Advisors
+      year: 2019
+    - title: Tutor in Econometrics and Advanced Econometrics
+      institution: Insper
+      year: 2023
+    - title: Valuation Summer Intern
+      institution: Santander
+      year: 2018
 
-- title: Academic Interests
-  type: nested_list
+- title: Skills
+  type: map
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - name: Languages
+      value: Portuguese (native), English (fluent), Spanish (advanced), French (beginner)
+    - name: Programming and Software (Advanced)
+      value: R, Stata, SQL, VBA, LaTeX, EViews
+    - name: Programming and Software (Intermediate)
+      value: Python, Julia, MATLAB, QGIS, GeoDa, GWR4
