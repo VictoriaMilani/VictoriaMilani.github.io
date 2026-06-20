@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Victoria Milani Lewaschiw",
+    "label": "Doutoranda em Economia",
+    "image": "",
+    "email": "vmilani@uga.edu",
+    "url": "https://victoriamilani.github.io/pt/",
+    "summary": "Doutoranda em Economia na University of Georgia. Áreas de pesquisa: Economia da Saúde, Econometria Aplicada e Microeconomia Aplicada.",
+    "location": {
+      "address": "Correll Hall 314M",
+      "postalCode": "",
+      "city": "Athens",
+      "countryCode": "US",
+      "region": "Georgia"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "University of Georgia",
+      "position": "Professora Responsável (Instructor of Record)",
+      "location": "Athens, GA, EUA",
+      "startDate": "2026-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Principles of Microeconomics (ECON 2106) — Spring 2026"
+      ]
+    },
+    {
+      "name": "University of Georgia",
+      "position": "Assistente de Pesquisa",
+      "location": "Athens, GA, EUA",
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "summary": "",
+      "highlights": [
+        "Assistente de Pesquisa de Matt Knepper (2024)",
+        "Assistente de Pesquisa de Gregorio Caetano (2025)"
+      ]
+    },
+    {
+      "name": "University of Georgia",
+      "position": "Assistente de Ensino",
+      "location": "Athens, GA, EUA",
+      "startDate": "2022-08-01",
+      "endDate": "2025-12-31",
+      "summary": "",
+      "highlights": [
+        "Econometria (Pós-graduação) — Fall 2024, Fall 2025",
+        "Economia do Trabalho (Pós-graduação) — Fall 2024",
+        "Econometria (Graduação) — Spring 2025",
+        "Economia Urbana — Spring 2023, Spring 2025",
+        "Economic Development of the U.S. — Summer 2023",
+        "Economia do Trabalho — Fall 2023",
+        "Economia da Saúde — Fall 2023",
+        "Microeconomia Intermediária (Honors) — Fall 2022, Spring 2023"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Georgia",
+      "location": "Athens, GA, EUA",
+      "url": "",
+      "area": "Economia",
+      "studyType": "Ph.D.",
+      "startDate": "2022-08-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Carlos III de Madrid",
+      "location": "Getafe, Espanha",
+      "url": "",
+      "area": "Análise Econômica",
+      "studyType": "M.Sc.",
+      "startDate": "2020-09-01",
+      "endDate": "2022-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Insper Instituto de Ensino e Pesquisa",
+      "location": "São Paulo, Brasil",
+      "url": "",
+      "area": "Economia",
+      "studyType": "Bacharelado",
+      "startDate": "2016-02-01",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Bolsa Knox",
+      "date": "2025-01-01",
+      "awarder": "University of Georgia",
+      "summary": "Também recebida em 2023 e 2024."
+    },
+    {
+      "title": "Bolsa Bonbright Center",
+      "date": "2022-01-01",
+      "awarder": "University of Georgia",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programação e Software (Avançado)",
+      "level": "",
+      "keywords": ["R", "Stata", "SQL", "VBA", "LaTeX", "EViews"]
+    },
+    {
+      "name": "Programação e Software (Intermediário)",
+      "level": "",
+      "keywords": ["Python", "Julia", "MATLAB", "QGIS", "GeoDa", "GWR4"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglês",
+      "fluency": "Fluente"
+    },
+    {
+      "language": "Espanhol",
+      "fluency": "Avançado"
+    },
+    {
+      "language": "Francês",
+      "fluency": "Iniciante"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Áreas de Pesquisa",
+      "keywords": ["Economia da Saúde", "Econometria Aplicada", "Microeconomia Aplicada"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}
