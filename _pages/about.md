@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. Candidate in Economics, University of Georgia — you can check my CV <a href='/cv/'>here</a>.
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile.jpeg
   image_circular: false
 selected_papers: false
 social: true
