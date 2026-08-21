@@ -6,8 +6,8 @@ permalink: /pt/research/
 
 ## Job Market Paper
 
-**[Título do JMP]**
-*Job Market Paper, 2026–2027*
+**Small Bites, Big Effects? Snacking and Health in the U.S.**
+*Job Market Paper*
 
 **Resumo**
 [Inserir resumo curto.]
@@ -18,16 +18,10 @@ permalink: /pt/research/
 
 ## Working Papers
 
-### [Título do segundo artigo]
-*[Coautores, se houver]*
+### [Health Effects of Food Away from Home]
 
 Resumo curto (2–4 linhas).
 
 **Links:** [PDF](#) · [Código/Dados](#)
 
----
 
-## Trabalhos em andamento
-
-- [Projeto 1] — descrição em uma linha.
-- [Projeto 2] — descrição em uma linha.
