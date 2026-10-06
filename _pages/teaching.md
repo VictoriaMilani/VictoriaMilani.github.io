@@ -6,16 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-## Teaching Philosophy
-
-My teaching goal is to help students develop strong economic intuition and practical analytical skills. I design courses that connect theory to policy-relevant questions and real-world evidence, so students can move confidently from concepts to application.
-
-In practice, I combine clear exposition of economic mechanisms with empirical examples, guided problem-solving, and active discussion. I emphasize rigorous reasoning while helping students communicate economic arguments clearly.
-
-I aim to create an inclusive and supportive classroom environment where students from different backgrounds can engage with demanding material. My approach uses structured lectures, frequent low-stakes practice, and transparent grading expectations. In quantitative courses, I emphasize intuition before formalization; in field courses, I connect empirical findings to institutional context and policy design.
-
----
-
 ## Courses Taught
 
 ### Instructor of Record

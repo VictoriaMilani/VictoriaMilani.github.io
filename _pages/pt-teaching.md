@@ -4,16 +4,6 @@ title: Ensino (PT-BR)
 permalink: /pt/teaching/
 ---
 
-## Filosofia de Ensino
-
-Meu objetivo é ajudar estudantes a desenvolver intuição econômica sólida e habilidades analíticas aplicadas. Estruturo as disciplinas para conectar teoria a questões relevantes de política pública e a evidências do mundo real, de forma que os alunos consigam passar com segurança dos conceitos para a aplicação.
-
-Na prática, combino exposição clara dos mecanismos econômicos com exemplos empíricos, resolução guiada de problemas e discussão ativa. Busco manter rigor analítico e, ao mesmo tempo, fortalecer a capacidade de comunicação de raciocínio econômico.
-
-Também priorizo um ambiente de sala de aula inclusivo e acolhedor, em que estudantes com diferentes formações consigam se engajar com conteúdo exigente. Para isso, utilizo aulas estruturadas, prática frequente de baixo risco e critérios de avaliação transparentes. Em cursos quantitativos, enfatizo intuição antes da formalização técnica; em cursos de campo, conecto resultados empíricos ao contexto institucional e ao desenho de políticas.
-
----
-
 ## Disciplinas Ministradas
 
 ### Professora Responsável (Instructor of Record)
