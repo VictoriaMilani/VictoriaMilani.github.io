@@ -35,8 +35,8 @@ permalink: /pt/teaching/
 
 - Tutor (Student-Athlete Support), Introductory Microeconomics, University of Georgia — 2022–2023
 - Tutor, Econometrics and Advanced Econometrics, Insper — 2019
+- Research Assistant, Applied Statistics, Dr. Adriana Bruscato, Insper — 2018
 - Teaching Assistant, Information Systems, Insper — 2017
-- Research Assistant, Applied Statistics, Dr. Adriana Bruscatto, Insper — 2018
 
 ---
 
