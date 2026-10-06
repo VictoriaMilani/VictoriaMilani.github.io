@@ -9,6 +9,7 @@ permalink: /pt/teaching/
 ### Professora Responsável (Instructor of Record)
 
 - Principles of Microeconomics (ECON 2106), University of Georgia — Spring 2026
+  - Plano de ensino (syllabus): [ECON 2106 Syllabus](/assets/pdf/ECON2106_Principles_of_Microeconomics_Syllabus.pdf)
 
 ### Experiência como Assistente de Ensino
 
@@ -33,7 +34,9 @@ permalink: /pt/teaching/
 ## Experiência Adicional de Ensino
 
 - Tutor (Student-Athlete Support), Introductory Microeconomics, University of Georgia — 2022–2023
-- Tutor in Econometrics and Advanced Econometrics, Insper — 2023
+- Tutor, Econometrics and Advanced Econometrics, Insper — 2019
+- Teaching Assistant, Information Systems, Insper — 2017
+- Research Assistant, Applied Statistics, Dr. Adriana Bruscatto, Insper — 2018
 
 ---
 
