@@ -11,10 +11,8 @@ selected_papers: false
 social: true
 ---
 
-I am a Ph.D. candidate in Economics at the University of Georgia. My research focuses on **Health Economics**, **Applied Econometrics**, and **Applied Microeconomics**, with a particular interest in how behavioral and policy-relevant factors affect health outcomes.
+I am a Ph.D. candidate in Economics at the University of Georgia. My research focuses on **Health Economics** and **Applied Econometrics**, with a particular interest in how behavioral and policy-relevant factors affect health outcomes.
 
-I am currently developing my Job Market Paper on the relationship between food-away-from-home consumption and health outcomes. I am on the **2026–2027 academic job market**, with primary interest in academic positions, especially in Brazil.
-
-Please find my research, teaching experience, and CV on this website.
+I am currently developing my Job Market Paper on the effect of snacking on American children's diet quality and BMI. I am on the **2026–2027 academic job market**, with primary interest in HEOR consulting positions.
 
 **Quick links:** [CV (PDF)](/assets/pdf/Victoria_Lewaschiw_-_CV.pdf) · [Research](/research/) · [Teaching](/teaching/) · [Português](/pt/)
